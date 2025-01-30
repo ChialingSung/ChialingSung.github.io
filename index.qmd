@@ -1,0 +1,26 @@
+---
+title: "Welcome to My Website"
+author: "Chialing Sung"
+date: "2025-01-26"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+# Hello, World!  
+Welcome to my Quarto website.  
+---
+## 📌 About Me  
+I am passionate about:  
+- **Data Science** 📊 (R, Python, SQL) <br>  
+- **Business Analytics** 📈 (Power BI, Excel) <br>  
+- **Web Development** 🌍 (Quarto, GitHub Pages)  
+
+## 📂 My Projects  
+### 🌍 Personal Website  
+- View the code on GitHub: [ChialingSung.github.io](https://github.com/ChialingSung/ChialingSung.github.io.git)
+
+## 📩 Contact Me  
+Feel free to reach out via:  
+📧 Email: [sungcl@bu.edu]
+

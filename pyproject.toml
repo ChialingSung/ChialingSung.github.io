@@ -1,0 +1,19 @@
+[project]
+name = "chialingsung-github-io"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Chialing Sung",email = "sungcl@bu.edu"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [{include = "chialingsung"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
