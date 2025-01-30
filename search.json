@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Welcome to my Quarto website.\n\n\n\nI am passionate about:\n- Data Science 📊 (R, Python, SQL) \n- Business Analytics 📈 (Power BI, Excel) \n- Web Development 🌍 (Quarto, GitHub Pages)\n\n\n\n\n\n\nView the code on GitHub: ChialingSung.github.io\n\n\n\n\n\nFeel free to reach out via:\n📧 Email: [sungcl@bu.edu]"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I am passionate about:\n- Data Science 📊 (R, Python, SQL) \n- Business Analytics 📈 (Power BI, Excel) \n- Web Development 🌍 (Quarto, GitHub Pages)"
+  },
+  {
+    "objectID": "index.html#my-projects",
+    "href": "index.html#my-projects",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "View the code on GitHub: ChialingSung.github.io"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Feel free to reach out via:\n📧 Email: [sungcl@bu.edu]"
+  }
+]
